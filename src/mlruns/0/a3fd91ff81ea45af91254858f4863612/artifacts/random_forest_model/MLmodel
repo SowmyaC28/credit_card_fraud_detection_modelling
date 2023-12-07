@@ -1,0 +1,25 @@
+artifact_path: random_forest_model
+flavors:
+  python_function:
+    cloudpickle_version: 2.2.1
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.11.5
+mlflow_version: 2.8.1
+model_size_bytes: 4928909
+model_uuid: 6d88dfa9adbd4f45aa4cbf0ea8183870
+run_id: a3fd91ff81ea45af91254858f4863612
+signature:
+  inputs: '[{"type": "long", "name": "cc_freq"}, {"type": "double", "name": "city"},
+    {"type": "double", "name": "job"}, {"type": "long", "name": "age"}, {"type": "boolean",
+    "name": "gender_M"}, {"type": "double", "name": "merchant"}, {"type": "double",
+    "name": "category"}, {"type": "double", "name": "distance_km"}, {"type": "integer",
+    "name": "month"}, {"type": "integer", "name": "day"}, {"type": "integer", "name":
+    "hour"}, {"type": "double", "name": "hours_diff_bet_trans"}, {"type": "double",
+    "name": "amt"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2023-12-06 23:04:24.520448'

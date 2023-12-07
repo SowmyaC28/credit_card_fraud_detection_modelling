@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sowmyac/Documents/Sowmya/Ml_ops/project/MLFlow-project/mlflow_credit_card_fraud/src/mlruns/0/2dd67b98f4f94b2ebc82b4f9c7a9bb8a/artifacts
+end_time: 1701815463924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dd67b98f4f94b2ebc82b4f9c7a9bb8a
+run_name: tasteful-cat-656
+run_uuid: 2dd67b98f4f94b2ebc82b4f9c7a9bb8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701815460680
+status: 3
+tags: []
+user_id: sowmyac

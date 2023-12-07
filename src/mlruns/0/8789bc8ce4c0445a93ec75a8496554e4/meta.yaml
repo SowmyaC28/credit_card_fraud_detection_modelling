@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sowmyac/Documents/Sowmya/Ml_ops/project/MLFlow-project/mlflow_credit_card_fraud/src/mlruns/0/8789bc8ce4c0445a93ec75a8496554e4/artifacts
+end_time: 1701903831545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8789bc8ce4c0445a93ec75a8496554e4
+run_name: sedate-cub-12
+run_uuid: 8789bc8ce4c0445a93ec75a8496554e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701903828333
+status: 3
+tags: []
+user_id: sowmyac

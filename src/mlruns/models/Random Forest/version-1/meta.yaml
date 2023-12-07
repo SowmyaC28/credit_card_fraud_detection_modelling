@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1701901092763
+current_stage: None
+description: null
+last_updated_timestamp: 1701901092763
+name: Random Forest
+run_id: 9373815fcc744e00b44a714044b82e88
+run_link: null
+source: file:///Users/sowmyac/Documents/Sowmya/Ml_ops/project/MLFlow-project/mlflow_credit_card_fraud/src/mlruns/0/9373815fcc744e00b44a714044b82e88/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///Users/sowmyac/Documents/Sowmya/Ml_ops/project/MLFlow-project/mlflow_credit_card_fraud/src/mlruns/0/9373815fcc744e00b44a714044b82e88/artifacts/random_forest_model
+user_id: null
+version: 1
